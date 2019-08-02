@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNReactNativeSharingWinstagram"
-  s.version      = "1.0.0"
+  s.version      = "1.1.2"
   s.summary      = "Share base64 image on Instagram app (ios and android)"
   s.description  = <<-DESC
                   RNReactNativeSharingWinstagram
